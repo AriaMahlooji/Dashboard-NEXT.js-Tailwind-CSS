@@ -6,7 +6,7 @@ import { FaShoppingBag } from "react-icons/fa";
 
 const orders = () => {
   return (
-    <div>
+    <div className="bg-gray-200 min-h-screen">
       <Header title={"Orders"}></Header>
       <div className="p-4">
         <div className="w-full m-auto p-4 border rounded-lg bg-white overflow-y-auto">

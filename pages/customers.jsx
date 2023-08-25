@@ -6,7 +6,7 @@ import Header from "@/components/Header";
 
 const customers = () => {
   return (
-    <div className="bg-gray-100 min-h-screen">
+    <div className="bg-gray-200 min-h-screen">
       <Header title={"Customers"}></Header>
 
       <div className="p-4">
